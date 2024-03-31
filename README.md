@@ -5,7 +5,10 @@
 #### By *Daniel Kinuthia Mwangi*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+It's a JavaScript file that attempts to solve week 2 code challenge.
+solution1 file modifies and creates a new string.
+solution2 file creates a number range given 2 arguments.
+solution2 file populates a new array of prime numbers.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
